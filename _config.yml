@@ -1,0 +1,152 @@
+# =========================================================
+# One-Page Portfolio — config.yml
+# from: github.com/debabrataswainiitp/debabrataswainiitp
+# NOTE: Structure is a generic Jekyll/Hugo-style schema.
+#       Adjust key names if your theme expects different ones
+#       (e.g. Hugo params.* nesting, minimal-mistakes author.*).
+# =========================================================
+
+name: "Debabrata Swain"
+nickname: "Raj"
+title: "BS in Computer Science & Data Analytics, IIT Patna"
+tagline: "Turning itches of mind into scalable solutions."
+
+bio: >
+  Tech enthusiast with a passion for code, creativity, and hands-on
+  learning across Backend Systems, DSA & Data Analytics. Currently
+  pursuing a BS in Computer Science & Data Analytics at IIT Patna,
+  with a background in electronics tinkering, event coordination,
+  and design.
+
+avatar: "/assets/img/avatar.jpg"   # placeholder — update with your photo path
+
+# ---------------------------------------------------------
+# Contact & Social Links
+# ---------------------------------------------------------
+social:
+  github: "https://github.com/debabrataswainiitp"
+  linkedin: "https://www.linkedin.com/in/debabrataswainiitp/"
+  instagram: "https://instagram.com/aef.raj"
+  email: "debabrata.jnv@gmail.com"
+  x: "https://x.com/debabratasiitp"
+  
+
+# ---------------------------------------------------------
+# Education
+# ---------------------------------------------------------
+education:
+  - institution: "Indian Institute of Technology, Patna"
+    degree: "BS, Computer Science & Data Analytics(4 Yr.)"
+    status: "Ongoing"
+  - institution: "Jawahar Navodaya Vidyalaya, Jagatsinghpur"
+    degree: "12th Science (Completed)"
+    status: "Completed"
+
+# ---------------------------------------------------------
+# Experience & Involvement
+# ---------------------------------------------------------
+experience:
+  - title: "Computer Cell Vice-President"
+    organization: "Jawahar Navodaya Vidyalaya (JNV)"
+    description: >
+      Led computer cell activities and supported school-wide tech
+      initiatives.
+  - title: "Member, Freelanthropy Club"
+    organization: "ARTHNITI Cell, Student Technical Council, IIT Patna"
+    description: >
+      Contributing to the technical council's outreach and
+      collaborative initiatives.
+  - title: "Certified Intern"
+    organization: "CIPET, Bhubaneswar"
+    description: >
+      Practical and theoretical exposure through a certified
+      internship program under JNV.
+  - title: "Event Coordinator"
+    organization: "JNV School-Level Events"
+    description: >
+      Coordinated computer tech, audio, and visual setups for
+      school-level events.
+
+# ---------------------------------------------------------
+# Highlighted Work / Achievements / Projects
+# ---------------------------------------------------------
+projects:
+  - title: "Custom Emulator Builds"
+    description: >
+      Developed multiple altered versions of the Emulator
+      with custom user-specific Graphical Assets and code for improved FPS,
+      stability, and cleaner UI.
+  - title: "Rasberry pi Offline Chat Bot"
+    description: >
+      Built a Offline SLM Chatbot using Llama 3.2 1B SLM
+      optimized for specific low-resource hardware.
+  - title: "KODA AI Website Builder"
+    description: >
+      Single Handedly Developed KODA AI Website Builder
+      showcasing Significance Developmenet in MERN. You
+      can find it in KODA Repo or Visit koda-ai-builder.onrender.com
+  - title: "Design & Media Work"
+    description: >
+      Photoshop, video editing, and design work for
+      professional school events.    
+  - title: "Advanced MUlti-Agent AI"
+    description: >
+      Currently Devloping Advanced Multi Agent AI with different 
+      agents for different tasks (Ongoing).
+
+
+# ---------------------------------------------------------
+# Skills / Tech Stack (proficiency out of 5)
+# ---------------------------------------------------------
+skills:
+  - name: "JavaScript / React"
+    level: 5
+  - name: "Node.js / Express"
+    level: 4
+  - name: "MongoDB"
+    level: 5
+  - name: "Python"
+    level: 4
+  - name: "Arduino"
+    level: 4
+  - name: "Framer Motion"
+    level: 5
+  - name: "Raspberry Pi"
+    level: 3
+  - name: "Java"
+    level: 2
+
+tech_badges:
+  - "C++"
+  - "JavaScript"
+  - "Java"
+  - "Python"
+  - "Pandas"
+  - "Matplotlib"
+  - "Aws"
+  - "Redis"
+  - "Express.js"
+  - "Node.js"
+  - "JWT"
+  - "React"
+  - "MongoDB"
+  - "Git"
+  - "GitHub"
+
+# ---------------------------------------------------------
+# Currently Learning
+# ---------------------------------------------------------
+currently_learning:
+  - skill: "Git & GitHub"
+    progress: "95%"
+  - skill: "Backend Development"
+    progress: "In progress"
+  - skill: "Java"
+    progress: "Weekend learning"
+  - skill: "Data Structures & Algorithms"
+    progress: "In progress"
+
+# ---------------------------------------------------------
+# GitHub Stats Widget (optional, for sites that render images)
+# ---------------------------------------------------------
+github_stats_image: "https://github-readme-stats.vercel.app/api?username=debabrataswainiitp&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=a6a6a6"
