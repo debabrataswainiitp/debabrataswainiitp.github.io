@@ -81,4 +81,4 @@ Java                    [██░░░]
 
 ## $ curl github-stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=debabrataswainiitp&show_icons=true&theme=dark&hide_border=true)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=debabrataswainiitp&show_icons=true&theme=dark&hide_border=true)
